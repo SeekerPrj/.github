@@ -20,3 +20,9 @@ Seekerprj는 일상생활 속에서 느끼는 사소한 불편함을 해결하�
 [GitHub 프로필](https://github.com/Profitah)
 
 <img src="https://github.com/Profitah.png?size=100" width="100px;"> 
+
+### 차태경
+
+[GitHub 프로필](https://github.com/tugukkoch)
+
+<img src="https://github.com/tugukkoch.png?size=100" width="100px;"> 
