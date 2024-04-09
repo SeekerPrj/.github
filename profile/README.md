@@ -23,6 +23,7 @@ Seekerprj는 일상생활 속에서 느끼는 사소한 불편함을 해결하�
 
 ### 차태경
 
+secret weapon ..
 [GitHub 프로필](https://github.com/tugukkoch)
 
 <img src="https://github.com/tugukkoch.png?size=100" width="100px;"> 
